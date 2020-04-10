@@ -1,0 +1,2 @@
+This function was created for the final FreeCodeCamp JavaScript project:
+https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/cash-register
